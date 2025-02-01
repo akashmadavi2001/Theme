@@ -1,1 +1,1 @@
-# AM2-Theme
+# Theme
